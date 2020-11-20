@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hello, World!</title>
+    <link>http://davisengelis.github.io/</link>
+    <description>Recent content on Hello, World!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 20 Nov 2020 11:16:45 +0200</lastBuildDate><atom:link href="http://davisengelis.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>I Wish I Knew Minimal Computing Earlier</title>
+      <link>http://davisengelis.github.io/posts/i-wish-i-knew-minimal-computin-earlier/</link>
+      <pubDate>Fri, 20 Nov 2020 11:16:45 +0200</pubDate>
+      
+      <guid>http://davisengelis.github.io/posts/i-wish-i-knew-minimal-computin-earlier/</guid>
+      <description>It dawned on me just now that I&amp;rsquo;ve already learnt about the dependencies of the digital world the hard way. Last year, I was working on a sheet music edition. The process was a completely new experience, and I had no idea how to get things done. So I built my workflow from scratch and learnt some bitter lessons about the digital dependencies.
+The first step was about scraping all Riga archives to get my hands on every possible edition of the 24 piano preludes by the composer Jānis Medinš.</description>
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>http://davisengelis.github.io/posts/my-first-post/</link>
+      <pubDate>Thu, 12 Nov 2020 15:31:02 +0200</pubDate>
+      
+      <guid>http://davisengelis.github.io/posts/my-first-post/</guid>
+      <description>Hello, World!</description>
+    </item>
+    
+  </channel>
+</rss>
