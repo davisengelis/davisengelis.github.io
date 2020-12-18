@@ -6,7 +6,17 @@
     <description>Recent content in Posts on Hello, World!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 Nov 2020 11:16:45 +0200</lastBuildDate><atom:link href="http://davisengelis.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 18 Dec 2020 14:20:55 +0200</lastBuildDate><atom:link href="http://davisengelis.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Metaphor_visuals_pilot</title>
+      <link>http://davisengelis.github.io/posts/metaphor_vivisuals_pilot/</link>
+      <pubDate>Fri, 18 Dec 2020 14:20:55 +0200</pubDate>
+      
+      <guid>http://davisengelis.github.io/posts/metaphor_vivisuals_pilot/</guid>
+      <description>This post is the first entry in a diary of my trials and errors in creating visualizations for my doctoral thesis.
+In summary: I have an excel table with several thousands of figurative language examples in Latvian, which are coded with 0 and 1 values that correspond with specific metaphor categories. I&amp;rsquo;m working on visualizations in order to make all the data simple to percieve, available to others, and - hopefully in the future - interactive.</description>
+    </item>
+    
     <item>
       <title>I Wish I Knew Minimal Computing Earlier</title>
       <link>http://davisengelis.github.io/posts/i-wish-i-knew-minimal-computin-earlier/</link>
